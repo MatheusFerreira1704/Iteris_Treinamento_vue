@@ -1,5 +1,14 @@
 # segundo-projeto
 
+Informações sobre a aula.
+
+O Componente Contador.vue foi um desafio deixado pela professora.
+
+
+
+
+
+
 ## Project setup
 ```
 npm install
